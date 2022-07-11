@@ -64,17 +64,14 @@ async function obtenerSueldos() {
       console.log(bono);
     } else if (json.jugadores[i]?.nivel === "B") {
       console.log(`El jugador ${json.jugadores[i].nombre} es nivel B`);
-      json.jugadores[i].goles_minimos = 10;
       console.log(sueldo);
       console.log(nivel);
     } else if (json.jugadores[i]?.nivel === "C") {
       console.log(`El jugador ${json.jugadores[i].nombre} es nivel C`);
-      json.jugadores[i].goles_minimos = 15;
       console.log(sueldo);
       console.log(nivel);
     } else if (json.jugadores[i]?.nivel === "Cuauh") {
       console.log(`El jugador ${json.jugadores[i].nombre} es nivel Cuauh`);
-      json.jugadores[i].goles_minimos = 20;
       console.log(sueldo);
       console.log(nivel);
     } 
