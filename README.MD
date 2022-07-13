@@ -50,7 +50,7 @@ Ejemplo: Los jugadores Juan, Pedro, Martín y Luis anotaron así durante el mes:
 | Pedro | B  | 7/10  |
 | Martín | C  | 16/15  |
 | Luis  | Cuauh  | 19/20 |
-| |Total | 48/50
+| |Total | 48/50 |
 
 En el bono por equipo tendrían un alcance de 96% Luis tendría un alcance individual de 95% para un alcance total de 95.5% El suelo fijo de Luis es de 50,000.00 y su bono es de 10,000.00 por lo que su sueldo final será $59,550.00
 
